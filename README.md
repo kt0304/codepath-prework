@@ -1,7 +1,7 @@
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
-The app has one button that changes the tile from black to orange.
+The app has one button that changes "Hello World" from black to orange.
 
 ### App Walk-though
 
