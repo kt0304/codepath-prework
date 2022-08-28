@@ -1,10 +1,10 @@
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
-`TODO://` Add app description
+The app has one button that changes the tile from black to orange.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
 
 <img src="http://g.recordit.co/6qMOvspVVW.gif" width=200><br>
 
